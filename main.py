@@ -1,7 +1,3 @@
-#
-# header comment! Overview, name, etc.
-#
-
 import sqlite3
 import matplotlib.pyplot as plt
 
